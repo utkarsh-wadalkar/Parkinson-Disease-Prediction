@@ -1,1 +1,2 @@
-# Parkinson-Disease-Prediction
+# Parkinson’s Disease Prediction using Machine Learning
+Built a supervised learning pipeline to classify whether a patient has Parkinson’s disease based on biomedical voice measurements. Performed data preprocessing (handling missing values, scaling features with StandardScaler) and exploratory data analysis to identify patterns in vocal biomarkers. Implemented and compared multiple classifiers — Logistic Regression, Support Vector Machine, Random Forest, Gradient Boosting, XGBoost — and evaluated them using accuracy, precision, recall, F1-score, and confusion matrices. Applied cross-validation for robust performance assessment and visualized key metrics to interpret model results.
